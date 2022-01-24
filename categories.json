@@ -1,0 +1,7 @@
+[
+    {"title": "Popular Meme", "image": "popular.png", "folder": "popular"},
+    {"title": "Bollywood Meme", "image": "bollywood.png", "folder": "bollywood"},
+    {"title": "Hindi Meme", "image": "hindi.png", "folder": "hindi"},
+    {"title": "Carryminati Meme", "image": "carryminati.jpg", "folder": "carryminati"},
+    {"title": "Laughing Meme", "image": "laughing.png", "folder": "laughing"}
+]
