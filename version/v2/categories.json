@@ -1,4 +1,5 @@
 [
+    {"title": "Green Screen Meme", "image": "green-screen.png", "folder": "green"},
     {"title": "Popular Meme", "image": "popular.png", "folder": "popular"},
     {"title": "Timestamp Clips", "image": "timestamp.png", "folder": "timestamp"},
     {"title": "Bollywood Meme", "image": "bollywood.png", "folder": "bollywood"},
